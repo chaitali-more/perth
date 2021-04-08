@@ -432,9 +432,14 @@ i.fa.fa-envelope {
     }
     .hero-section .wrapper .left-image {
         margin-left: 0px;
+        margin-top: 33px;
+    }
+    .about-section .left-content p,.about-section blockquote{
+        width:100%;
     }
     .about-section {
         padding-top: 40px;
+        
     }
     .hero-section .wrapper .right-content {
         float: none;
